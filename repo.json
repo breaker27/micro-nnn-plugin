@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "nnn",
+        "Description": "adds support to opening files via nnn",
+        "Website": "https://github.com/breaker27/micro-nnn-plugin",
+        "Tags": ["nnn"],
+        "Versions": [
+            {
+                "Version": "1.0.0",
+                "Url": "https://github.com/breaker27/micro-nnn-plugin/archive/v1.0.0.zip",
+                "Require": {
+                    "micro": ">=1.1.2"
+                }
+            }
+        ]
+    }
+]
